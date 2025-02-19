@@ -8,6 +8,11 @@
   </thead>
   <tbody>
     <tr>
+      <td>17/02/2025</td>
+      <td><a href="https://arxiv.org/abs/2502.12115">SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?</a></td>
+      <td>SWE-Lancer is a benchmark of 1,400 freelance software engineering tasks worth $1 million. It includes both independent and managerial tasks, with performance evaluation by experts. Frontier models struggle with most tasks. The benchmark is open-sourced to advance research on AI's economic impact.</td>
+    </tr>
+    <tr>
       <td>12/02/2025</td>
       <td>
         <a
