@@ -22,6 +22,21 @@
       </td>
     </tr>
     <tr>
+      <td>22/01/2025</td>
+      <td>
+        <a href="https://arxiv.org/abs/2501.12948"
+          >DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a
+        >
+      </td>
+      <td>
+        We introduce two reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, trained via large-scale
+        reinforcement learning (RL) without supervised fine-tuning, shows strong reasoning capabilities but faces issues
+        like poor readability. To improve this, DeepSeek-R1 incorporates multi-stage training and cold-start data,
+        achieving performance comparable to OpenAI's models. We open-source both models and six distilled versions based
+        on Qwen and Llama.
+      </td>
+    </tr>
+    <tr>
       <td>12/06/2017</td>
       <td><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a></td>
       <td>
